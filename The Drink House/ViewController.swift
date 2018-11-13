@@ -37,6 +37,6 @@ class ViewController: UIViewController {
         Red.isHidden = true 
     }
     //:This is a comment to start git!!!
-    
+    //:second comment for a commit!!!
 
 }
